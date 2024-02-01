@@ -1,0 +1,14 @@
+.top{
+    color: blue;
+    width: 500px;
+    height: 350px;
+    
+}
+
+.top:hover{
+    background-color: blue;
+    color: crimson;
+}
+li{
+    color: rgb(255, 255, 255);
+}
